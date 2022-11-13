@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Zadanie1: ");
+        PD4Zad1.UmieszczanieWFunkcji();
+    }
+}
